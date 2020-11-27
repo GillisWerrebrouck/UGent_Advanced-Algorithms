@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "memory_resource": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "numeric": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
